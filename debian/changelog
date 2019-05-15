@@ -1,3 +1,9 @@
+audisp-tacplus (1.0.3) UNRELEASED; urgency=low
+  * Add IPv6 address parsing support for tacacs server
+  * Fix debian/rules with --dpkg-shlibdeps-params=--ignore-missing-info
+
+ -- Alexander Petrovskiy <alexpe@mellanox.com>  Thu, 16 May 2019 00:13:41 +0300 
+
 audisp-tacplus (1.0.2) UNRELEASED; urgency=low
 
   * API change to support new user_homedir config variable.
